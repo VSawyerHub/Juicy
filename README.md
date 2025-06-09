@@ -1,4 +1,4 @@
-# StreamGuard VST Plugin
+# VST Plugin/Project Juce (In Development!!)
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![Build Status](https://img.shields.io/badge/build-passing-brightgreen.svg)](https://github.com/username/streamguard-vst)
@@ -40,8 +40,8 @@
 ### Quick Install
 ```bash
 # Clone the repository
-git clone https://github.com/username/streamguard-vst.git
-cd streamguard-vst
+git clone https://github.com/VSawyerHub/Juicy.git
+cd Juicy
 
 # Install dependencies
 pip install -r requirements.txt
@@ -53,7 +53,7 @@ make -j4
 ```
 
 ### Manual Installation
-1. Download the latest release from the [Releases](https://github.com/username/streamguard-vst/releases) page
+1. Download the latest release from the [Releases](https://github.com/VSawyerHub/Juicy/releases) page
 2. Extract the plugin files to your VST3 directory:
    - **Windows**: `C:\Program Files\Common Files\VST3\`
    - **macOS**: `~/Library/Audio/Plug-Ins/VST3/`
@@ -70,7 +70,7 @@ make -j4
 ### OBS Integration
 ```
 1. Add Audio Filter → VST 2.x Plugin
-2. Select "StreamGuard VST"
+2. Select "Juicy"
 3. Enable "Auto-mute on detection"
 4. Configure notification settings
 ```
@@ -78,7 +78,7 @@ make -j4
 ### Voicemeeter Setup
 ```
 1. Open Voicemeeter Control Panel
-2. Insert → VST Plugin → StreamGuard
+2. Insert → VST Plugin → Juicy
 3. Configure real-time monitoring
 4. Set output routing for clean audio
 ```
@@ -86,7 +86,7 @@ make -j4
 ## ⚙️ Configuration
 
 ### Configuration File
-Create `streamguard_config.json` in your plugin directory:
+Create `juicy_config.json` in your plugin directory:
 
 ```json
 {
@@ -115,8 +115,8 @@ Create `streamguard_config.json` in your plugin directory:
 sudo apt-get install cmake build-essential python3-dev
 
 # Clone and build
-git clone https://github.com/username/streamguard-vst.git
-cd streamguard-vst
+git clone https://github.com/VSawyerHub/Juicy.git
+cd juicy
 
 # Initialize submodules
 git submodule update --init --recursive
@@ -134,7 +134,7 @@ make test
 
 ### Project Structure
 ```
-streamguard-vst/
+juicy/
 ├── src/
 │   ├── cpp/           # C++ VST plugin code
 │   ├── python/        # Python AI processing
@@ -171,9 +171,8 @@ We welcome contributions! Please see our [Contributing Guidelines](CONTRIBUTING.
 
 ## 🐛 Issues & Support
 
-- **Bug Reports**: [GitHub Issues](https://github.com/username/streamguard-vst/issues)
-- **Feature Requests**: [GitHub Discussions](https://github.com/username/streamguard-vst/discussions)
-- **Community Support**: [Discord Server](https://discord.gg/streamguard)
+- **Bug Reports**: [GitHub Issues](https://github.com/VSawyerHub/Juicy/issues)
+- **Feature Requests**: [GitHub Discussions](https://github.com/VSawyerHub/Juicy/discussions)
 
 ## 📄 License
 
@@ -188,17 +187,9 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 📊 Metrics
 
-![GitHub stars](https://img.shields.io/github/stars/username/streamguard-vst?style=social)
-![GitHub forks](https://img.shields.io/github/forks/username/streamguard-vst?style=social)
-![GitHub issues](https://img.shields.io/github/issues/username/streamguard-vst)
-![GitHub pull requests](https://img.shields.io/github/issues-pr/username/streamguard-vst)
+![GitHub stars](https://img.shields.io/github/stars/VSawyerHub/Juicy?style=social)
+![GitHub forks](https://img.shields.io/github/forks/VSawyerHub/Juicy?style=social)
+![GitHub issues](https://img.shields.io/github/issues/VSawyerHub/Juicy)
+![GitHub pull requests](https://img.shields.io/github/issues-pr/VSawyerHub/Juicy)
 
 ---
-
-<div align="center">
-
-**Made with ❤️ for the streaming community**
-
-[Website](https://streamguard-vst.com) • [Documentation](https://docs.streamguard-vst.com) • [Community](https://discord.gg/streamguard)
-
-</div>
