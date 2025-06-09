@@ -1,0 +1,452 @@
+﻿  PluginProcessor.cpp
+  PluginEditor.cpp
+C:\Users\vitos\OneDrive\Área de Trabalho\JUCE\Juicy\Source\PluginProcessor.h(16,37): error C2653: 'juce': is not a class or namespace name
+  (compiling source file '../../Source/PluginProcessor.cpp')
+  
+C:\Users\vitos\OneDrive\Área de Trabalho\JUCE\Juicy\Source\PluginProcessor.h(16,43): error C2504: 'AudioProcessor': base class undefined
+  (compiling source file '../../Source/PluginProcessor.cpp')
+  
+C:\Users\vitos\OneDrive\Área de Trabalho\JUCE\Juicy\Source\PluginProcessor.h(28,34): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+  (compiling source file '../../Source/PluginProcessor.cpp')
+  
+C:\Users\vitos\OneDrive\Área de Trabalho\JUCE\Juicy\Source\PluginProcessor.h(28,51): error C2143: syntax error: missing ',' before '&'
+  (compiling source file '../../Source/PluginProcessor.cpp')
+  
+C:\Users\vitos\OneDrive\Área de Trabalho\JUCE\Juicy\Source\PluginProcessor.h(31,24): error C2653: 'juce': is not a class or namespace name
+  (compiling source file '../../Source/PluginProcessor.cpp')
+  
+C:\Users\vitos\OneDrive\Área de Trabalho\JUCE\Juicy\Source\PluginProcessor.h(31,30): error C2061: syntax error: identifier 'AudioBuffer'
+  (compiling source file '../../Source/PluginProcessor.cpp')
+  
+C:\Users\vitos\OneDrive\Área de Trabalho\JUCE\Juicy\Source\PluginProcessor.h(34,5): error C2653: 'juce': is not a class or namespace name
+  (compiling source file '../../Source/PluginProcessor.cpp')
+  
+C:\Users\vitos\OneDrive\Área de Trabalho\JUCE\Juicy\Source\PluginProcessor.h(34,31): error C2143: syntax error: missing ';' before '*'
+  (compiling source file '../../Source/PluginProcessor.cpp')
+  
+C:\Users\vitos\OneDrive\Área de Trabalho\JUCE\Juicy\Source\PluginProcessor.h(34,11): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+  (compiling source file '../../Source/PluginProcessor.cpp')
+  
+C:\Users\vitos\OneDrive\Área de Trabalho\JUCE\Juicy\Source\PluginProcessor.h(34,56): error C2238: unexpected token(s) preceding ';'
+  (compiling source file '../../Source/PluginProcessor.cpp')
+  
+C:\Users\vitos\OneDrive\Área de Trabalho\JUCE\Juicy\Source\PluginProcessor.h(38,11): error C2653: 'juce': is not a class or namespace name
+  (compiling source file '../../Source/PluginProcessor.cpp')
+  
+C:\Users\vitos\OneDrive\Área de Trabalho\JUCE\Juicy\Source\PluginProcessor.h(16,37): error C2653: 'juce': is not a class or namespace name
+  (compiling source file '../../Source/PluginEditor.cpp')
+  
+C:\Users\vitos\OneDrive\Área de Trabalho\JUCE\Juicy\Source\PluginProcessor.h(38,5): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+  (compiling source file '../../Source/PluginProcessor.cpp')
+  
+C:\Users\vitos\OneDrive\Área de Trabalho\JUCE\Juicy\Source\PluginProcessor.h(16,43): error C2504: 'AudioProcessor': base class undefined
+  (compiling source file '../../Source/PluginEditor.cpp')
+  
+C:\Users\vitos\OneDrive\Área de Trabalho\JUCE\Juicy\Source\PluginProcessor.h(38,24): error C3646: 'getName': unknown override specifier
+  (compiling source file '../../Source/PluginProcessor.cpp')
+  
+C:\Users\vitos\OneDrive\Área de Trabalho\JUCE\Juicy\Source\PluginProcessor.h(28,34): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+  (compiling source file '../../Source/PluginEditor.cpp')
+  
+C:\Users\vitos\OneDrive\Área de Trabalho\JUCE\Juicy\Source\PluginProcessor.h(38,32): error C2059: syntax error: ')'
+  (compiling source file '../../Source/PluginProcessor.cpp')
+  
+C:\Users\vitos\OneDrive\Área de Trabalho\JUCE\Juicy\Source\PluginProcessor.h(28,51): error C2143: syntax error: missing ',' before '&'
+  (compiling source file '../../Source/PluginEditor.cpp')
+  
+C:\Users\vitos\OneDrive\Área de Trabalho\JUCE\Juicy\Source\PluginProcessor.h(38,48): error C2238: unexpected token(s) preceding ';'
+  (compiling source file '../../Source/PluginProcessor.cpp')
+  
+C:\Users\vitos\OneDrive\Área de Trabalho\JUCE\Juicy\Source\PluginProcessor.h(31,24): error C2653: 'juce': is not a class or namespace name
+  (compiling source file '../../Source/PluginEditor.cpp')
+  
+C:\Users\vitos\OneDrive\Área de Trabalho\JUCE\Juicy\Source\PluginProcessor.h(31,30): error C2061: syntax error: identifier 'AudioBuffer'
+  (compiling source file '../../Source/PluginEditor.cpp')
+  
+C:\Users\vitos\OneDrive\Área de Trabalho\JUCE\Juicy\Source\PluginProcessor.h(49,11): error C2653: 'juce': is not a class or namespace name
+  (compiling source file '../../Source/PluginProcessor.cpp')
+  
+C:\Users\vitos\OneDrive\Área de Trabalho\JUCE\Juicy\Source\PluginProcessor.h(49,5): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+  (compiling source file '../../Source/PluginProcessor.cpp')
+  
+C:\Users\vitos\OneDrive\Área de Trabalho\JUCE\Juicy\Source\PluginProcessor.h(34,5): error C2653: 'juce': is not a class or namespace name
+  (compiling source file '../../Source/PluginEditor.cpp')
+  
+C:\Users\vitos\OneDrive\Área de Trabalho\JUCE\Juicy\Source\PluginProcessor.h(49,24): error C3646: 'getProgramName': unknown override specifier
+  (compiling source file '../../Source/PluginProcessor.cpp')
+  
+C:\Users\vitos\OneDrive\Área de Trabalho\JUCE\Juicy\Source\PluginProcessor.h(34,31): error C2143: syntax error: missing ';' before '*'
+  (compiling source file '../../Source/PluginEditor.cpp')
+  
+C:\Users\vitos\OneDrive\Área de Trabalho\JUCE\Juicy\Source\PluginProcessor.h(49,40): error C2062: type 'int' unexpected
+  (compiling source file '../../Source/PluginProcessor.cpp')
+  
+C:\Users\vitos\OneDrive\Área de Trabalho\JUCE\Juicy\Source\PluginProcessor.h(34,11): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+  (compiling source file '../../Source/PluginEditor.cpp')
+  
+C:\Users\vitos\OneDrive\Área de Trabalho\JUCE\Juicy\Source\PluginProcessor.h(49,59): error C2238: unexpected token(s) preceding ';'
+  (compiling source file '../../Source/PluginProcessor.cpp')
+  
+C:\Users\vitos\OneDrive\Área de Trabalho\JUCE\Juicy\Source\PluginProcessor.h(34,56): error C2238: unexpected token(s) preceding ';'
+  (compiling source file '../../Source/PluginEditor.cpp')
+  
+C:\Users\vitos\OneDrive\Área de Trabalho\JUCE\Juicy\Source\PluginProcessor.h(50,46): error C2653: 'juce': is not a class or namespace name
+  (compiling source file '../../Source/PluginProcessor.cpp')
+  
+C:\Users\vitos\OneDrive\Área de Trabalho\JUCE\Juicy\Source\PluginProcessor.h(38,11): error C2653: 'juce': is not a class or namespace name
+  (compiling source file '../../Source/PluginEditor.cpp')
+  
+C:\Users\vitos\OneDrive\Área de Trabalho\JUCE\Juicy\Source\PluginProcessor.h(50,40): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+  (compiling source file '../../Source/PluginProcessor.cpp')
+  
+C:\Users\vitos\OneDrive\Área de Trabalho\JUCE\Juicy\Source\PluginProcessor.h(38,5): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+  (compiling source file '../../Source/PluginEditor.cpp')
+  
+C:\Users\vitos\OneDrive\Área de Trabalho\JUCE\Juicy\Source\PluginProcessor.h(50,58): error C2143: syntax error: missing ',' before '&'
+  (compiling source file '../../Source/PluginProcessor.cpp')
+  
+C:\Users\vitos\OneDrive\Área de Trabalho\JUCE\Juicy\Source\PluginProcessor.h(38,24): error C3646: 'getName': unknown override specifier
+  (compiling source file '../../Source/PluginEditor.cpp')
+  
+C:\Users\vitos\OneDrive\Área de Trabalho\JUCE\Juicy\Source\PluginProcessor.h(53,31): error C2653: 'juce': is not a class or namespace name
+  (compiling source file '../../Source/PluginProcessor.cpp')
+  
+C:\Users\vitos\OneDrive\Área de Trabalho\JUCE\Juicy\Source\PluginProcessor.h(38,32): error C2059: syntax error: ')'
+  (compiling source file '../../Source/PluginEditor.cpp')
+  
+C:\Users\vitos\OneDrive\Área de Trabalho\JUCE\Juicy\Source\PluginProcessor.h(53,37): error C2061: syntax error: identifier 'MemoryBlock'
+  (compiling source file '../../Source/PluginProcessor.cpp')
+  
+C:\Users\vitos\OneDrive\Área de Trabalho\JUCE\Juicy\Source\PluginProcessor.h(38,48): error C2238: unexpected token(s) preceding ';'
+  (compiling source file '../../Source/PluginEditor.cpp')
+  
+C:\Users\vitos\OneDrive\Área de Trabalho\JUCE\Juicy\Source\PluginProcessor.h(59,1): error C2143: syntax error: missing ';' before '}'
+  (compiling source file '../../Source/PluginProcessor.cpp')
+  
+C:\Users\vitos\OneDrive\Área de Trabalho\JUCE\Juicy\Source\PluginProcessor.h(49,11): error C2653: 'juce': is not a class or namespace name
+  (compiling source file '../../Source/PluginEditor.cpp')
+  
+C:\Users\vitos\OneDrive\Área de Trabalho\JUCE\Juicy\Source\PluginProcessor.h(58,5): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+  (compiling source file '../../Source/PluginProcessor.cpp')
+  
+C:\Users\vitos\OneDrive\Área de Trabalho\JUCE\Juicy\Source\PluginProcessor.h(49,5): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+  (compiling source file '../../Source/PluginEditor.cpp')
+  
+C:\Users\vitos\OneDrive\Área de Trabalho\JUCE\Juicy\Source\PluginProcessor.h(58,5): warning C4183: 'JUCE_DECLARE_NON_COPYABLE_WITH_LEAK_DETECTOR': missing return type; assumed to be a member function returning 'int'
+  (compiling source file '../../Source/PluginProcessor.cpp')
+  
+C:\Users\vitos\OneDrive\Área de Trabalho\JUCE\Juicy\Source\PluginProcessor.h(49,24): error C3646: 'getProgramName': unknown override specifier
+  (compiling source file '../../Source/PluginEditor.cpp')
+  
+C:\Users\vitos\OneDrive\Área de Trabalho\JUCE\Juicy\Source\PluginProcessor.h(21,6): error C3668: 'JuicyAudioProcessor::~JuicyAudioProcessor': method with override specifier 'override' did not override any base class methods
+  (compiling source file '../../Source/PluginProcessor.cpp')
+  
+C:\Users\vitos\OneDrive\Área de Trabalho\JUCE\Juicy\Source\PluginProcessor.h(49,40): error C2062: type 'int' unexpected
+  (compiling source file '../../Source/PluginEditor.cpp')
+  
+C:\Users\vitos\OneDrive\Área de Trabalho\JUCE\Juicy\Source\PluginProcessor.h(24,10): error C3668: 'JuicyAudioProcessor::prepareToPlay': method with override specifier 'override' did not override any base class methods
+  (compiling source file '../../Source/PluginProcessor.cpp')
+  
+C:\Users\vitos\OneDrive\Área de Trabalho\JUCE\Juicy\Source\PluginProcessor.h(49,59): error C2238: unexpected token(s) preceding ';'
+  (compiling source file '../../Source/PluginEditor.cpp')
+  
+C:\Users\vitos\OneDrive\Área de Trabalho\JUCE\Juicy\Source\PluginProcessor.h(25,10): error C3668: 'JuicyAudioProcessor::releaseResources': method with override specifier 'override' did not override any base class methods
+  (compiling source file '../../Source/PluginProcessor.cpp')
+  
+C:\Users\vitos\OneDrive\Área de Trabalho\JUCE\Juicy\Source\PluginProcessor.h(28,10): error C3668: 'JuicyAudioProcessor::isBusesLayoutSupported': method with override specifier 'override' did not override any base class methods
+  (compiling source file '../../Source/PluginProcessor.cpp')
+  
+C:\Users\vitos\OneDrive\Área de Trabalho\JUCE\Juicy\Source\PluginProcessor.h(50,46): error C2653: 'juce': is not a class or namespace name
+  (compiling source file '../../Source/PluginEditor.cpp')
+  
+C:\Users\vitos\OneDrive\Área de Trabalho\JUCE\Juicy\Source\PluginProcessor.h(31,10): error C3668: 'JuicyAudioProcessor::processBlock': method with override specifier 'override' did not override any base class methods
+  (compiling source file '../../Source/PluginProcessor.cpp')
+  
+C:\Users\vitos\OneDrive\Área de Trabalho\JUCE\Juicy\Source\PluginProcessor.h(50,40): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+  (compiling source file '../../Source/PluginEditor.cpp')
+  
+C:\Users\vitos\OneDrive\Área de Trabalho\JUCE\Juicy\Source\PluginProcessor.h(35,10): error C3668: 'JuicyAudioProcessor::hasEditor': method with override specifier 'override' did not override any base class methods
+  (compiling source file '../../Source/PluginProcessor.cpp')
+  
+C:\Users\vitos\OneDrive\Área de Trabalho\JUCE\Juicy\Source\PluginProcessor.h(50,58): error C2143: syntax error: missing ',' before '&'
+  (compiling source file '../../Source/PluginEditor.cpp')
+  
+C:\Users\vitos\OneDrive\Área de Trabalho\JUCE\Juicy\Source\PluginProcessor.h(40,10): error C3668: 'JuicyAudioProcessor::acceptsMidi': method with override specifier 'override' did not override any base class methods
+  (compiling source file '../../Source/PluginProcessor.cpp')
+  
+C:\Users\vitos\OneDrive\Área de Trabalho\JUCE\Juicy\Source\PluginProcessor.h(53,31): error C2653: 'juce': is not a class or namespace name
+  (compiling source file '../../Source/PluginEditor.cpp')
+  
+C:\Users\vitos\OneDrive\Área de Trabalho\JUCE\Juicy\Source\PluginProcessor.h(41,10): error C3668: 'JuicyAudioProcessor::producesMidi': method with override specifier 'override' did not override any base class methods
+  (compiling source file '../../Source/PluginProcessor.cpp')
+  
+C:\Users\vitos\OneDrive\Área de Trabalho\JUCE\Juicy\Source\PluginProcessor.h(53,37): error C2061: syntax error: identifier 'MemoryBlock'
+  (compiling source file '../../Source/PluginEditor.cpp')
+  
+C:\Users\vitos\OneDrive\Área de Trabalho\JUCE\Juicy\Source\PluginProcessor.h(42,10): error C3668: 'JuicyAudioProcessor::isMidiEffect': method with override specifier 'override' did not override any base class methods
+  (compiling source file '../../Source/PluginProcessor.cpp')
+  
+C:\Users\vitos\OneDrive\Área de Trabalho\JUCE\Juicy\Source\PluginProcessor.h(43,12): error C3668: 'JuicyAudioProcessor::getTailLengthSeconds': method with override specifier 'override' did not override any base class methods
+  (compiling source file '../../Source/PluginProcessor.cpp')
+  
+C:\Users\vitos\OneDrive\Área de Trabalho\JUCE\Juicy\Source\PluginProcessor.h(59,1): error C2143: syntax error: missing ';' before '}'
+  (compiling source file '../../Source/PluginEditor.cpp')
+  
+C:\Users\vitos\OneDrive\Área de Trabalho\JUCE\Juicy\Source\PluginProcessor.h(46,9): error C3668: 'JuicyAudioProcessor::getNumPrograms': method with override specifier 'override' did not override any base class methods
+  (compiling source file '../../Source/PluginProcessor.cpp')
+  
+C:\Users\vitos\OneDrive\Área de Trabalho\JUCE\Juicy\Source\PluginProcessor.h(58,5): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+  (compiling source file '../../Source/PluginEditor.cpp')
+  
+C:\Users\vitos\OneDrive\Área de Trabalho\JUCE\Juicy\Source\PluginProcessor.h(47,9): error C3668: 'JuicyAudioProcessor::getCurrentProgram': method with override specifier 'override' did not override any base class methods
+  (compiling source file '../../Source/PluginProcessor.cpp')
+  
+C:\Users\vitos\OneDrive\Área de Trabalho\JUCE\Juicy\Source\PluginProcessor.h(58,5): warning C4183: 'JUCE_DECLARE_NON_COPYABLE_WITH_LEAK_DETECTOR': missing return type; assumed to be a member function returning 'int'
+  (compiling source file '../../Source/PluginEditor.cpp')
+  
+C:\Users\vitos\OneDrive\Área de Trabalho\JUCE\Juicy\Source\PluginProcessor.h(48,10): error C3668: 'JuicyAudioProcessor::setCurrentProgram': method with override specifier 'override' did not override any base class methods
+  (compiling source file '../../Source/PluginProcessor.cpp')
+  
+C:\Users\vitos\OneDrive\Área de Trabalho\JUCE\Juicy\Source\PluginProcessor.h(21,6): error C3668: 'JuicyAudioProcessor::~JuicyAudioProcessor': method with override specifier 'override' did not override any base class methods
+  (compiling source file '../../Source/PluginEditor.cpp')
+  
+C:\Users\vitos\OneDrive\Área de Trabalho\JUCE\Juicy\Source\PluginProcessor.h(50,10): error C3668: 'JuicyAudioProcessor::changeProgramName': method with override specifier 'override' did not override any base class methods
+  (compiling source file '../../Source/PluginProcessor.cpp')
+  
+C:\Users\vitos\OneDrive\Área de Trabalho\JUCE\Juicy\Source\PluginProcessor.h(24,10): error C3668: 'JuicyAudioProcessor::prepareToPlay': method with override specifier 'override' did not override any base class methods
+  (compiling source file '../../Source/PluginEditor.cpp')
+  
+C:\Users\vitos\OneDrive\Área de Trabalho\JUCE\Juicy\Source\PluginProcessor.h(53,10): error C3668: 'JuicyAudioProcessor::getStateInformation': method with override specifier 'override' did not override any base class methods
+  (compiling source file '../../Source/PluginProcessor.cpp')
+  
+C:\Users\vitos\OneDrive\Área de Trabalho\JUCE\Juicy\Source\PluginProcessor.h(25,10): error C3668: 'JuicyAudioProcessor::releaseResources': method with override specifier 'override' did not override any base class methods
+  (compiling source file '../../Source/PluginEditor.cpp')
+  
+C:\Users\vitos\OneDrive\Área de Trabalho\JUCE\Juicy\Source\PluginProcessor.h(54,10): error C3668: 'JuicyAudioProcessor::setStateInformation': method with override specifier 'override' did not override any base class methods
+  (compiling source file '../../Source/PluginProcessor.cpp')
+  
+C:\Users\vitos\OneDrive\Área de Trabalho\JUCE\Juicy\Source\PluginProcessor.h(28,10): error C3668: 'JuicyAudioProcessor::isBusesLayoutSupported': method with override specifier 'override' did not override any base class methods
+  (compiling source file '../../Source/PluginEditor.cpp')
+  
+C:\Users\vitos\OneDrive\Área de Trabalho\JUCE\Juicy\Source\PluginProcessor.h(31,10): error C3668: 'JuicyAudioProcessor::processBlock': method with override specifier 'override' did not override any base class methods
+  (compiling source file '../../Source/PluginEditor.cpp')
+  
+C:\Users\vitos\OneDrive\Área de Trabalho\JUCE\Juicy\Source\PluginEditor.h(17,43): error C2653: 'juce': is not a class or namespace name
+  (compiling source file '../../Source/PluginProcessor.cpp')
+  
+C:\Users\vitos\OneDrive\Área de Trabalho\JUCE\Juicy\Source\PluginProcessor.h(35,10): error C3668: 'JuicyAudioProcessor::hasEditor': method with override specifier 'override' did not override any base class methods
+  (compiling source file '../../Source/PluginEditor.cpp')
+  
+C:\Users\vitos\OneDrive\Área de Trabalho\JUCE\Juicy\Source\PluginEditor.h(17,49): error C2504: 'AudioProcessorEditor': base class undefined
+  (compiling source file '../../Source/PluginProcessor.cpp')
+  
+C:\Users\vitos\OneDrive\Área de Trabalho\JUCE\Juicy\Source\PluginProcessor.h(40,10): error C3668: 'JuicyAudioProcessor::acceptsMidi': method with override specifier 'override' did not override any base class methods
+  (compiling source file '../../Source/PluginEditor.cpp')
+  
+C:\Users\vitos\OneDrive\Área de Trabalho\JUCE\Juicy\Source\PluginEditor.h(24,17): error C2653: 'juce': is not a class or namespace name
+  (compiling source file '../../Source/PluginProcessor.cpp')
+  
+C:\Users\vitos\OneDrive\Área de Trabalho\JUCE\Juicy\Source\PluginProcessor.h(41,10): error C3668: 'JuicyAudioProcessor::producesMidi': method with override specifier 'override' did not override any base class methods
+  (compiling source file '../../Source/PluginEditor.cpp')
+  
+C:\Users\vitos\OneDrive\Área de Trabalho\JUCE\Juicy\Source\PluginEditor.h(24,23): error C2061: syntax error: identifier 'Graphics'
+  (compiling source file '../../Source/PluginProcessor.cpp')
+  
+C:\Users\vitos\OneDrive\Área de Trabalho\JUCE\Juicy\Source\PluginProcessor.h(42,10): error C3668: 'JuicyAudioProcessor::isMidiEffect': method with override specifier 'override' did not override any base class methods
+  (compiling source file '../../Source/PluginEditor.cpp')
+  
+C:\Users\vitos\OneDrive\Área de Trabalho\JUCE\Juicy\Source\PluginEditor.h(33,1): error C2143: syntax error: missing ';' before '}'
+  (compiling source file '../../Source/PluginProcessor.cpp')
+  
+C:\Users\vitos\OneDrive\Área de Trabalho\JUCE\Juicy\Source\PluginEditor.h(32,5): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+  (compiling source file '../../Source/PluginProcessor.cpp')
+  
+C:\Users\vitos\OneDrive\Área de Trabalho\JUCE\Juicy\Source\PluginProcessor.h(43,12): error C3668: 'JuicyAudioProcessor::getTailLengthSeconds': method with override specifier 'override' did not override any base class methods
+  (compiling source file '../../Source/PluginEditor.cpp')
+  
+C:\Users\vitos\OneDrive\Área de Trabalho\JUCE\Juicy\Source\PluginEditor.h(32,5): warning C4183: 'JUCE_DECLARE_NON_COPYABLE_WITH_LEAK_DETECTOR': missing return type; assumed to be a member function returning 'int'
+  (compiling source file '../../Source/PluginProcessor.cpp')
+  
+C:\Users\vitos\OneDrive\Área de Trabalho\JUCE\Juicy\Source\PluginProcessor.h(46,9): error C3668: 'JuicyAudioProcessor::getNumPrograms': method with override specifier 'override' did not override any base class methods
+  (compiling source file '../../Source/PluginEditor.cpp')
+  
+C:\Users\vitos\OneDrive\Área de Trabalho\JUCE\Juicy\Source\PluginEditor.h(21,6): error C3668: 'JuicyAudioProcessorEditor::~JuicyAudioProcessorEditor': method with override specifier 'override' did not override any base class methods
+  (compiling source file '../../Source/PluginProcessor.cpp')
+  
+C:\Users\vitos\OneDrive\Área de Trabalho\JUCE\Juicy\Source\PluginProcessor.h(47,9): error C3668: 'JuicyAudioProcessor::getCurrentProgram': method with override specifier 'override' did not override any base class methods
+  (compiling source file '../../Source/PluginEditor.cpp')
+  
+C:\Users\vitos\OneDrive\Área de Trabalho\JUCE\Juicy\Source\PluginEditor.h(24,10): error C3668: 'JuicyAudioProcessorEditor::paint': method with override specifier 'override' did not override any base class methods
+  (compiling source file '../../Source/PluginProcessor.cpp')
+  
+C:\Users\vitos\OneDrive\Área de Trabalho\JUCE\Juicy\Source\PluginEditor.h(25,10): error C3668: 'JuicyAudioProcessorEditor::resized': method with override specifier 'override' did not override any base class methods
+  (compiling source file '../../Source/PluginProcessor.cpp')
+  
+C:\Users\vitos\OneDrive\Área de Trabalho\JUCE\Juicy\Source\PluginProcessor.h(48,10): error C3668: 'JuicyAudioProcessor::setCurrentProgram': method with override specifier 'override' did not override any base class methods
+  (compiling source file '../../Source/PluginEditor.cpp')
+  
+C:\Users\vitos\OneDrive\Área de Trabalho\JUCE\Juicy\Source\PluginProcessor.cpp(15,24): error C3861: 'BusesProperties': identifier not found
+C:\Users\vitos\OneDrive\Área de Trabalho\JUCE\Juicy\Source\PluginProcessor.cpp(18,47): error C2653: 'juce': is not a class or namespace name
+C:\Users\vitos\OneDrive\Área de Trabalho\JUCE\Juicy\Source\PluginProcessor.h(50,10): error C3668: 'JuicyAudioProcessor::changeProgramName': method with override specifier 'override' did not override any base class methods
+  (compiling source file '../../Source/PluginEditor.cpp')
+  
+C:\Users\vitos\OneDrive\Área de Trabalho\JUCE\Juicy\Source\PluginProcessor.h(53,10): error C3668: 'JuicyAudioProcessor::getStateInformation': method with override specifier 'override' did not override any base class methods
+  (compiling source file '../../Source/PluginEditor.cpp')
+  
+C:\Users\vitos\OneDrive\Área de Trabalho\JUCE\Juicy\Source\PluginProcessor.h(54,10): error C3668: 'JuicyAudioProcessor::setStateInformation': method with override specifier 'override' did not override any base class methods
+  (compiling source file '../../Source/PluginEditor.cpp')
+  
+C:\Users\vitos\OneDrive\Área de Trabalho\JUCE\Juicy\Source\PluginProcessor.cpp(18,70): error C3861: 'stereo': identifier not found
+C:\Users\vitos\OneDrive\Área de Trabalho\JUCE\Juicy\Source\PluginProcessor.cpp(20,47): error C2653: 'juce': is not a class or namespace name
+C:\Users\vitos\OneDrive\Área de Trabalho\JUCE\Juicy\Source\PluginEditor.h(17,43): error C2653: 'juce': is not a class or namespace name
+  (compiling source file '../../Source/PluginEditor.cpp')
+  
+C:\Users\vitos\OneDrive\Área de Trabalho\JUCE\Juicy\Source\PluginProcessor.cpp(20,70): error C3861: 'stereo': identifier not found
+C:\Users\vitos\OneDrive\Área de Trabalho\JUCE\Juicy\Source\PluginEditor.h(17,49): error C2504: 'AudioProcessorEditor': base class undefined
+  (compiling source file '../../Source/PluginEditor.cpp')
+  
+C:\Users\vitos\OneDrive\Área de Trabalho\JUCE\Juicy\Source\PluginProcessor.cpp(15,8): error C2614: 'JuicyAudioProcessor': illegal member initialization: 'AudioProcessor' is not a base or member
+C:\Users\vitos\OneDrive\Área de Trabalho\JUCE\Juicy\Source\PluginEditor.h(24,17): error C2653: 'juce': is not a class or namespace name
+  (compiling source file '../../Source/PluginEditor.cpp')
+  
+C:\Users\vitos\OneDrive\Área de Trabalho\JUCE\Juicy\Source\PluginProcessor.cpp(32,7): error C2653: 'juce': is not a class or namespace name
+C:\Users\vitos\OneDrive\Área de Trabalho\JUCE\Juicy\Source\PluginEditor.h(24,23): error C2061: syntax error: identifier 'Graphics'
+  (compiling source file '../../Source/PluginEditor.cpp')
+  
+C:\Users\vitos\OneDrive\Área de Trabalho\JUCE\Juicy\Source\PluginProcessor.cpp(32,1): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+C:\Users\vitos\OneDrive\Área de Trabalho\JUCE\Juicy\Source\PluginEditor.h(33,1): error C2143: syntax error: missing ';' before '}'
+  (compiling source file '../../Source/PluginEditor.cpp')
+  
+C:\Users\vitos\OneDrive\Área de Trabalho\JUCE\Juicy\Source\PluginEditor.h(32,5): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+  (compiling source file '../../Source/PluginEditor.cpp')
+  
+C:\Users\vitos\OneDrive\Área de Trabalho\JUCE\Juicy\Source\PluginProcessor.cpp(32,41): error C2039: 'getName': is not a member of 'JuicyAudioProcessor'
+      C:\Users\vitos\OneDrive\Área de Trabalho\JUCE\Juicy\Source\PluginProcessor.h(16,7):
+      see declaration of 'JuicyAudioProcessor'
+  
+C:\Users\vitos\OneDrive\Área de Trabalho\JUCE\Juicy\Source\PluginEditor.h(32,5): warning C4183: 'JUCE_DECLARE_NON_COPYABLE_WITH_LEAK_DETECTOR': missing return type; assumed to be a member function returning 'int'
+  (compiling source file '../../Source/PluginEditor.cpp')
+  
+C:\Users\vitos\OneDrive\Área de Trabalho\JUCE\Juicy\Source\PluginProcessor.cpp(32,41): error C2146: syntax error: missing ';' before identifier 'getName'
+C:\Users\vitos\OneDrive\Área de Trabalho\JUCE\Juicy\Source\PluginEditor.h(21,6): error C3668: 'JuicyAudioProcessorEditor::~JuicyAudioProcessorEditor': method with override specifier 'override' did not override any base class methods
+  (compiling source file '../../Source/PluginEditor.cpp')
+  
+C:\Users\vitos\OneDrive\Área de Trabalho\JUCE\Juicy\Source\PluginProcessor.cpp(32,49): error C2059: syntax error: ')'
+C:\Users\vitos\OneDrive\Área de Trabalho\JUCE\Juicy\Source\PluginEditor.h(24,10): error C3668: 'JuicyAudioProcessorEditor::paint': method with override specifier 'override' did not override any base class methods
+  (compiling source file '../../Source/PluginEditor.cpp')
+  
+C:\Users\vitos\OneDrive\Área de Trabalho\JUCE\Juicy\Source\PluginProcessor.cpp(33,1): error C2143: syntax error: missing ';' before '{'
+C:\Users\vitos\OneDrive\Área de Trabalho\JUCE\Juicy\Source\PluginEditor.h(25,10): error C3668: 'JuicyAudioProcessorEditor::resized': method with override specifier 'override' did not override any base class methods
+  (compiling source file '../../Source/PluginEditor.cpp')
+  
+C:\Users\vitos\OneDrive\Área de Trabalho\JUCE\Juicy\Source\PluginProcessor.cpp(33,1): error C2447: '{': missing function header (old-style formal list?)
+C:\Users\vitos\OneDrive\Área de Trabalho\JUCE\Juicy\Source\PluginEditor.cpp(14,7): error C2614: 'JuicyAudioProcessorEditor': illegal member initialization: 'AudioProcessorEditor' is not a base or member
+C:\Users\vitos\OneDrive\Área de Trabalho\JUCE\Juicy\Source\PluginProcessor.cpp(84,7): error C2653: 'juce': is not a class or namespace name
+C:\Users\vitos\OneDrive\Área de Trabalho\JUCE\Juicy\Source\PluginEditor.cpp(18,5): error C3861: 'setSize': identifier not found
+C:\Users\vitos\OneDrive\Área de Trabalho\JUCE\Juicy\Source\PluginProcessor.cpp(84,1): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+C:\Users\vitos\OneDrive\Área de Trabalho\JUCE\Juicy\Source\PluginEditor.cpp(26,40): error C2653: 'juce': is not a class or namespace name
+C:\Users\vitos\OneDrive\Área de Trabalho\JUCE\Juicy\Source\PluginProcessor.cpp(84,41): error C2039: 'getProgramName': is not a member of 'JuicyAudioProcessor'
+      C:\Users\vitos\OneDrive\Área de Trabalho\JUCE\Juicy\Source\PluginProcessor.h(16,7):
+      see declaration of 'JuicyAudioProcessor'
+  
+C:\Users\vitos\OneDrive\Área de Trabalho\JUCE\Juicy\Source\PluginEditor.cpp(26,46): error C2065: 'Graphics': undeclared identifier
+C:\Users\vitos\OneDrive\Área de Trabalho\JUCE\Juicy\Source\PluginEditor.cpp(26,56): error C2065: 'g': undeclared identifier
+C:\Users\vitos\OneDrive\Área de Trabalho\JUCE\Juicy\Source\PluginProcessor.cpp(84,13): error C2086: 'const int String': redefinition
+      C:\Users\vitos\OneDrive\Área de Trabalho\JUCE\Juicy\Source\PluginProcessor.cpp(32,13):
+      see declaration of 'String'
+  
+C:\Users\vitos\OneDrive\Área de Trabalho\JUCE\Juicy\Source\PluginEditor.cpp(26,33): error C2761: 'void JuicyAudioProcessorEditor::paint(void)': redeclaration of member is not allowed
+C:\Users\vitos\OneDrive\Área de Trabalho\JUCE\Juicy\Source\PluginEditor.cpp(27,1): error C2143: syntax error: missing ';' before '{'
+C:\Users\vitos\OneDrive\Área de Trabalho\JUCE\Juicy\Source\PluginProcessor.cpp(84,41): error C2146: syntax error: missing ';' before identifier 'getProgramName'
+C:\Users\vitos\OneDrive\Área de Trabalho\JUCE\Juicy\Source\PluginEditor.cpp(29,5): error C3927: '->': trailing return type is not allowed after a non-function declarator
+C:\Users\vitos\OneDrive\Área de Trabalho\JUCE\Juicy\Source\PluginProcessor.cpp(84,57): error C2062: type 'int' unexpected
+C:\Users\vitos\OneDrive\Área de Trabalho\JUCE\Juicy\Source\PluginEditor.cpp(29,6): error C3484: syntax error: expected '->' before the return type
+C:\Users\vitos\OneDrive\Área de Trabalho\JUCE\Juicy\Source\PluginProcessor.cpp(85,1): error C2143: syntax error: missing ';' before '{'
+C:\Users\vitos\OneDrive\Área de Trabalho\JUCE\Juicy\Source\PluginEditor.cpp(29,7): error C3613: missing return type after '->' ('int' assumed)
+C:\Users\vitos\OneDrive\Área de Trabalho\JUCE\Juicy\Source\PluginProcessor.cpp(85,1): error C2447: '{': missing function header (old-style formal list?)
+C:\Users\vitos\OneDrive\Área de Trabalho\JUCE\Juicy\Source\PluginEditor.cpp(29,5): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+C:\Users\vitos\OneDrive\Área de Trabalho\JUCE\Juicy\Source\PluginProcessor.cpp(89,63): error C2653: 'juce': is not a class or namespace name
+C:\Users\vitos\OneDrive\Área de Trabalho\JUCE\Juicy\Source\PluginEditor.cpp(29,7): error C2146: syntax error: missing ';' before identifier 'fillAll'
+C:\Users\vitos\OneDrive\Área de Trabalho\JUCE\Juicy\Source\PluginProcessor.cpp(89,57): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+C:\Users\vitos\OneDrive\Área de Trabalho\JUCE\Juicy\Source\PluginEditor.cpp(29,45): error C2653: 'juce': is not a class or namespace name
+C:\Users\vitos\OneDrive\Área de Trabalho\JUCE\Juicy\Source\PluginProcessor.cpp(89,75): error C2143: syntax error: missing ',' before '&'
+C:\Users\vitos\OneDrive\Área de Trabalho\JUCE\Juicy\Source\PluginEditor.cpp(31,5): error C3927: '->': trailing return type is not allowed after a non-function declarator
+C:\Users\vitos\OneDrive\Área de Trabalho\JUCE\Juicy\Source\PluginEditor.cpp(31,6): error C3484: syntax error: expected '->' before the return type
+C:\Users\vitos\OneDrive\Área de Trabalho\JUCE\Juicy\Source\PluginProcessor.cpp(89,69): warning C4459: declaration of 'String' hides global declaration
+      C:\Users\vitos\OneDrive\Área de Trabalho\JUCE\Juicy\Source\PluginProcessor.cpp(32,13):
+      see declaration of 'String'
+  
+C:\Users\vitos\OneDrive\Área de Trabalho\JUCE\Juicy\Source\PluginEditor.cpp(31,7): error C3613: missing return type after '->' ('int' assumed)
+C:\Users\vitos\OneDrive\Área de Trabalho\JUCE\Juicy\Source\PluginProcessor.cpp(107,51): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+C:\Users\vitos\OneDrive\Área de Trabalho\JUCE\Juicy\Source\PluginEditor.cpp(31,5): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+C:\Users\vitos\OneDrive\Área de Trabalho\JUCE\Juicy\Source\PluginProcessor.cpp(107,68): error C2143: syntax error: missing ',' before '&'
+C:\Users\vitos\OneDrive\Área de Trabalho\JUCE\Juicy\Source\PluginEditor.cpp(31,5): error C2086: 'int g': redefinition
+      C:\Users\vitos\OneDrive\Área de Trabalho\JUCE\Juicy\Source\PluginEditor.cpp(29,5):
+      see declaration of 'g'
+  
+C:\Users\vitos\OneDrive\Área de Trabalho\JUCE\Juicy\Source\PluginProcessor.cpp(117,9): error C2065: 'layouts': undeclared identifier
+C:\Users\vitos\OneDrive\Área de Trabalho\JUCE\Juicy\Source\PluginProcessor.cpp(117,46): error C2653: 'juce': is not a class or namespace name
+C:\Users\vitos\OneDrive\Área de Trabalho\JUCE\Juicy\Source\PluginProcessor.cpp(117,69): error C3861: 'mono': identifier not found
+C:\Users\vitos\OneDrive\Área de Trabalho\JUCE\Juicy\Source\PluginEditor.cpp(31,7): error C2146: syntax error: missing ';' before identifier 'setColour'
+C:\Users\vitos\OneDrive\Área de Trabalho\JUCE\Juicy\Source\PluginProcessor.cpp(118,9): error C2065: 'layouts': undeclared identifier
+C:\Users\vitos\OneDrive\Área de Trabalho\JUCE\Juicy\Source\PluginEditor.cpp(31,18): error C2653: 'juce': is not a class or namespace name
+C:\Users\vitos\OneDrive\Área de Trabalho\JUCE\Juicy\Source\PluginProcessor.cpp(118,46): error C2653: 'juce': is not a class or namespace name
+C:\Users\vitos\OneDrive\Área de Trabalho\JUCE\Juicy\Source\PluginEditor.cpp(32,5): error C3927: '->': trailing return type is not allowed after a non-function declarator
+C:\Users\vitos\OneDrive\Área de Trabalho\JUCE\Juicy\Source\PluginProcessor.cpp(118,69): error C3861: 'stereo': identifier not found
+C:\Users\vitos\OneDrive\Área de Trabalho\JUCE\Juicy\Source\PluginEditor.cpp(32,6): error C3484: syntax error: expected '->' before the return type
+C:\Users\vitos\OneDrive\Área de Trabalho\JUCE\Juicy\Source\PluginProcessor.cpp(123,9): error C2065: 'layouts': undeclared identifier
+C:\Users\vitos\OneDrive\Área de Trabalho\JUCE\Juicy\Source\PluginProcessor.cpp(123,46): error C2065: 'layouts': undeclared identifier
+C:\Users\vitos\OneDrive\Área de Trabalho\JUCE\Juicy\Source\PluginEditor.cpp(32,7): error C3613: missing return type after '->' ('int' assumed)
+C:\Users\vitos\OneDrive\Área de Trabalho\JUCE\Juicy\Source\PluginEditor.cpp(32,5): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+C:\Users\vitos\OneDrive\Área de Trabalho\JUCE\Juicy\Source\PluginProcessor.cpp(132,41): error C2653: 'juce': is not a class or namespace name
+C:\Users\vitos\OneDrive\Área de Trabalho\JUCE\Juicy\Source\PluginProcessor.cpp(132,47): error C2065: 'AudioBuffer': undeclared identifier
+C:\Users\vitos\OneDrive\Área de Trabalho\JUCE\Juicy\Source\PluginProcessor.cpp(132,59): error C2062: type 'float' unexpected
+C:\Users\vitos\OneDrive\Área de Trabalho\JUCE\Juicy\Source\PluginEditor.cpp(32,5): error C2086: 'int g': redefinition
+      C:\Users\vitos\OneDrive\Área de Trabalho\JUCE\Juicy\Source\PluginEditor.cpp(29,5):
+      see declaration of 'g'
+  
+C:\Users\vitos\OneDrive\Área de Trabalho\JUCE\Juicy\Source\PluginProcessor.cpp(132,75): error C2653: 'juce': is not a class or namespace name
+C:\Users\vitos\OneDrive\Área de Trabalho\JUCE\Juicy\Source\PluginProcessor.cpp(133,1): error C2143: syntax error: missing ';' before '{'
+C:\Users\vitos\OneDrive\Área de Trabalho\JUCE\Juicy\Source\PluginProcessor.cpp(133,1): error C2447: '{': missing function header (old-style formal list?)
+C:\Users\vitos\OneDrive\Área de Trabalho\JUCE\Juicy\Source\PluginEditor.cpp(32,7): error C2146: syntax error: missing ';' before identifier 'setFont'
+C:\Users\vitos\OneDrive\Área de Trabalho\JUCE\Juicy\Source\PluginEditor.cpp(32,16): error C2653: 'juce': is not a class or namespace name
+C:\Users\vitos\OneDrive\Área de Trabalho\JUCE\Juicy\Source\PluginProcessor.cpp(167,1): error C2653: 'juce': is not a class or namespace name
+C:\Users\vitos\OneDrive\Área de Trabalho\JUCE\Juicy\Source\PluginEditor.cpp(33,5): error C3927: '->': trailing return type is not allowed after a non-function declarator
+C:\Users\vitos\OneDrive\Área de Trabalho\JUCE\Juicy\Source\PluginProcessor.cpp(167,27): error C2143: syntax error: missing ';' before '*'
+C:\Users\vitos\OneDrive\Área de Trabalho\JUCE\Juicy\Source\PluginEditor.cpp(33,6): error C3484: syntax error: expected '->' before the return type
+C:\Users\vitos\OneDrive\Área de Trabalho\JUCE\Juicy\Source\PluginProcessor.cpp(167,7): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+C:\Users\vitos\OneDrive\Área de Trabalho\JUCE\Juicy\Source\PluginEditor.cpp(33,7): error C3613: missing return type after '->' ('int' assumed)
+C:\Users\vitos\OneDrive\Área de Trabalho\JUCE\Juicy\Source\PluginProcessor.cpp(167,50): error C2039: 'createEditor': is not a member of 'JuicyAudioProcessor'
+      C:\Users\vitos\OneDrive\Área de Trabalho\JUCE\Juicy\Source\PluginProcessor.h(16,7):
+      see declaration of 'JuicyAudioProcessor'
+  
+C:\Users\vitos\OneDrive\Área de Trabalho\JUCE\Juicy\Source\PluginEditor.cpp(33,5): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+C:\Users\vitos\OneDrive\Área de Trabalho\JUCE\Juicy\Source\PluginProcessor.cpp(167,50): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+C:\Users\vitos\OneDrive\Área de Trabalho\JUCE\Juicy\Source\PluginProcessor.cpp(168,1): error C2059: syntax error: '{'
+C:\Users\vitos\OneDrive\Área de Trabalho\JUCE\Juicy\Source\PluginEditor.cpp(33,5): error C2086: 'int g': redefinition
+      C:\Users\vitos\OneDrive\Área de Trabalho\JUCE\Juicy\Source\PluginEditor.cpp(29,5):
+      see declaration of 'g'
+  
+C:\Users\vitos\OneDrive\Área de Trabalho\JUCE\Juicy\Source\PluginProcessor.cpp(168,1): error C2143: syntax error: missing ';' before '{'
+C:\Users\vitos\OneDrive\Área de Trabalho\JUCE\Juicy\Source\PluginProcessor.cpp(168,1): error C2447: '{': missing function header (old-style formal list?)
+C:\Users\vitos\OneDrive\Área de Trabalho\JUCE\Juicy\Source\PluginEditor.cpp(33,7): error C2146: syntax error: missing ';' before identifier 'drawFittedText'
+C:\Users\vitos\OneDrive\Área de Trabalho\JUCE\Juicy\Source\PluginProcessor.cpp(173,48): error C2653: 'juce': is not a class or namespace name
+C:\Users\vitos\OneDrive\Área de Trabalho\JUCE\Juicy\Source\PluginEditor.cpp(33,57): error C2653: 'juce': is not a class or namespace name
+C:\Users\vitos\OneDrive\Área de Trabalho\JUCE\Juicy\Source\PluginProcessor.cpp(173,54): error C2065: 'MemoryBlock': undeclared identifier
+C:\Users\vitos\OneDrive\Área de Trabalho\JUCE\Juicy\Source\PluginEditor.cpp(34,1): error C2059: syntax error: '}'
+C:\Users\vitos\OneDrive\Área de Trabalho\JUCE\Juicy\Source\PluginProcessor.cpp(173,67): error C2065: 'destData': undeclared identifier
+C:\Users\vitos\OneDrive\Área de Trabalho\JUCE\Juicy\Source\PluginEditor.cpp(34,1): error C2143: syntax error: missing ';' before '}'
+C:\Users\vitos\OneDrive\Área de Trabalho\JUCE\Juicy\Source\PluginProcessor.cpp(173,27): error C2761: 'void JuicyAudioProcessor::getStateInformation(void)': redeclaration of member is not allowed
+C:\Users\vitos\OneDrive\Área de Trabalho\JUCE\Juicy\Source\PluginProcessor.cpp(174,1): error C2143: syntax error: missing ';' before '{'
+C:\Users\vitos\OneDrive\Área de Trabalho\JUCE\Juicy\Source\PluginEditor.cpp(37,1): error C2143: syntax error: missing ';' before '{'
+C:\Users\vitos\OneDrive\Área de Trabalho\JUCE\Juicy\Source\PluginProcessor.cpp(178,1): error C2059: syntax error: '}'
+C:\Users\vitos\OneDrive\Área de Trabalho\JUCE\Juicy\Source\PluginEditor.cpp(37,1): error C2447: '{': missing function header (old-style formal list?)
+C:\Users\vitos\OneDrive\Área de Trabalho\JUCE\Juicy\Source\PluginProcessor.cpp(178,1): error C2143: syntax error: missing ';' before '}'
+C:\Users\vitos\OneDrive\Área de Trabalho\JUCE\Juicy\Source\PluginProcessor.cpp(181,1): error C2143: syntax error: missing ';' before '{'
+C:\Users\vitos\OneDrive\Área de Trabalho\JUCE\Juicy\Source\PluginProcessor.cpp(181,1): error C2447: '{': missing function header (old-style formal list?)
+C:\Users\vitos\OneDrive\Área de Trabalho\JUCE\Juicy\Source\PluginProcessor.cpp(188,1): error C2653: 'juce': is not a class or namespace name
+C:\Users\vitos\OneDrive\Área de Trabalho\JUCE\Juicy\Source\PluginProcessor.cpp(188,21): error C2143: syntax error: missing ';' before '*'
+C:\Users\vitos\OneDrive\Área de Trabalho\JUCE\Juicy\Source\PluginProcessor.cpp(188,7): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+C:\Users\vitos\OneDrive\Área de Trabalho\JUCE\Juicy\Source\PluginProcessor.cpp(188,23): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+C:\Users\vitos\OneDrive\Área de Trabalho\JUCE\Juicy\Source\PluginProcessor.cpp(188,37): error C2146: syntax error: missing ';' before identifier 'createPluginFilter'
+C:\Users\vitos\OneDrive\Área de Trabalho\JUCE\Juicy\Source\PluginProcessor.cpp(188,37): error C1003: error count exceeds 100; stopping compilation
